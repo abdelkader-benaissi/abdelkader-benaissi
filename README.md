@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdou-009
-- 👀 I’m interested in  Network Security, Java, C, C++,Bug Bounty Hunter
-- 🌱 I’m currently learning Service Oriented Architectures
+
+
 
 
 <!---
