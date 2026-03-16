@@ -1,28 +1,52 @@
-# About Me
+<h1 align="center">Abdelkader Benaissi</h1>
+<h3 align="center">Security Engineer · Systems Engineer · DevOps</h3>
 
-Hello! I'm Abdelkader Benaissi, a passionate software engineer, network engineer, and sysadmin with a Master's degree in Computer Science. With a diverse skill set and a wealth of experience, I specialize in various domains within the realm of technology.
+<p align="center">
+  <a href="https://abdou-009.github.io">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/abdelkader-benaissi">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:REDACTED">📧 Email</a>
+</p>
 
-## Expertise
+---
 
-- **Programming Languages**: Java, C, C++, Dart, Flutter, Python
-- **Data Science**: Experienced in data analysis, machine learning, and statistical modeling
-- **Web Development**: HTML, CSS, JavaScript
-- **Android UI**: Designing intuitive and user-friendly interfaces for Android applications
-- **Video and Photo Editing**: Proficient in editing videos and photos to create captivating content
-- **Voice Over**: Providing professional voice-over services for various projects
+### 👨‍💻 About Me
 
-## Experience
+Security-focused Systems Engineer with ~2 years of experience managing enterprise infrastructure across Linux and Windows Server environments. Currently working at Algeria's **Government Authority for Electronic Certification (AGCE)**, where I support national PKI infrastructure, manage VMware virtualization, and operate security systems including FortiSIEM.
 
-I have extensive experience working in software development, network administration, and system administration roles. Throughout my career, I have successfully tackled challenges and delivered solutions that meet both technical requirements and business objectives.
+- 🔐 **Security:** CompTIA Security+, ISO/IEC 27001 Lead Auditor, Fortinet FCA
+- ☁️ **DevOps:** Docker, Kubernetes, GitHub Actions CI/CD, Terraform, Prometheus, Grafana
+- 🖥️ **Infra:** Active Directory, VMware vSphere/ESXi, Hyper-V, iDRAC, EMC Storage
+- 🛡️ **Network:** FortiGate, pfSense, Cloudflare WAF, Nginx Reverse Proxy
+- 📜 **PKI:** Certificate Authority operations, national digital trust framework
 
-## Projects
+---
 
-I've been involved in numerous projects, from developing innovative mobile applications using Flutter to creating dynamic web experiences with HTML, CSS, and JavaScript. Additionally, my proficiency in multimedia editing allows me to produce captivating content that leaves a lasting impression.
+### 🚀 Featured Projects
 
-## Connect with Me
+| Project | Stack | Description |
+|---|---|---|
+| [DevOps Monitoring Platform](https://github.com/Abdou-009/DevOps_Project) | Python · Flask · Docker · Prometheus · Grafana · GitHub Actions · Terraform | Production-grade REST API with full CI/CD, observability and IaC |
+| Automated Security Assessment | Python · Bash · Nmap · Nikto · Gemini API | AI-powered vulnerability scanner with scheduled VPS scans and email reporting |
+| Enterprise Backup System | Bash · Rclone · SSH · Cron | Automated encrypted backup system with monitoring and failure alerting |
+| SIEM Deployment | FortiSIEM · vCenter · ESXi | Supervisor + Collector architecture with event correlation and security dashboards |
 
-Feel free to reach out to me via email at [Email](mailto:REDACTED) or connect with me on [LinkedIn](https://www.linkedin.com/in/abdelkader-benaissi-3ab1a9238/) to explore collaboration opportunities, discuss projects, or simply say hello. Let's embark on a journey together to explore the endless possibilities in the world of technology!
+---
 
-## Credits
+### 🛠️ Tech Stack
 
-This `README.md` file was authored by Abdelkader Benaissi.
+Security CompTIA Sec+ | ISO 27001 | FortiSIEM | Penetration Testing | Nmap | Burp Suite DevOps Docker | Kubernetes | GitHub Actions | Terraform | Prometheus | Grafana Systems Linux | Windows Server | Active Directory | VMware vSphere | Hyper-V Network FortiGate | pfSense | Nginx | Cloudflare WAF | DNS Scripting Python | Bash | PowerShell
+
+---
+
+### 📜 Certifications
+
+- 🏅 **CompTIA Security+** — 2025
+- 🏅 **ISO/IEC 27001:2022 Lead Auditor** — 2025
+- 🏅 **Fortinet Certified Associate Cybersecurity** — 2025
+- 🏅 **Fortinet FortiGate 7.4 Operator** — 2025
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdou-009&color=0e75b6&style=flat" alt="profile views" />
+</p>
