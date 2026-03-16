@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://abdou-009.github.io">🌐 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/abdelkader-benaissi">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:REDACTED">📧 Email</a>
+  <a href="https://abdou-009.github.io/#contact">📬 Contact</a>
 </p>
 
 ---
