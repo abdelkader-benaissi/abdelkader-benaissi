@@ -2,9 +2,9 @@
 <h3 align="center">Security Engineer · Systems Engineer · DevOps</h3>
 
 <p align="center">
-  <a href="https://abdou-009.github.io">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://abdelkader-benaissi.github.io">🌐 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/abdelkader-benaissi">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://abdou-009.github.io/#contact">📬 Contact</a>
+  <a href="https://abdelkader-benaissi.github.io/#contact">📬 Contact</a>
 </p>
 
 ---
@@ -25,7 +25,7 @@ Security-focused Systems Engineer with ~2 years of experience managing enterpris
 
 | Project | Stack | Description |
 |---|---|---|
-| [DevOps Monitoring Platform](https://github.com/Abdou-009/DevOps_Project) | Python · Flask · Docker · Prometheus · Grafana · GitHub Actions · Terraform | Production-grade REST API with full CI/CD, observability and IaC |
+| [DevOps Monitoring Platform](https://github.com/abdelkader-benaissi/DevOps_Project) | Python · Flask · Docker · Prometheus · Grafana · GitHub Actions · Terraform | Production-grade REST API with full CI/CD, observability and IaC |
 | Automated Security Assessment | Python · Bash · Nmap · Nikto · Gemini API | AI-powered vulnerability scanner with scheduled VPS scans and email reporting |
 | Enterprise Backup System | Bash · Rclone · SSH · Cron | Automated encrypted backup system with monitoring and failure alerting |
 | SIEM Deployment | FortiSIEM · vCenter · ESXi | Supervisor + Collector architecture with event correlation and security dashboards |
@@ -48,5 +48,5 @@ Security CompTIA Sec+ | ISO 27001 | FortiSIEM | Penetration Testing | Nmap | Bur
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdou-009&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abdelkader-benaissi&color=0e75b6&style=flat" alt="profile views" />
 </p>
