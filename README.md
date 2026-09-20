@@ -1,52 +1,39 @@
-<h1 align="center">Abdelkader Benaissi</h1>
-<h3 align="center">Security Engineer · Systems Engineer · DevOps</h3>
+# Abdelkader Benaissi
 
-<p align="center">
-  <a href="https://abdelkader-benaissi.github.io">🌐 Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/abdelkader-benaissi">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://abdelkader-benaissi.github.io/#contact">📬 Contact</a>
-</p>
+**Systems & Security Engineer | DevOps Automation**
 
----
+[Portfolio](https://abdelkader-benaissi.github.io) | [LinkedIn](https://www.linkedin.com/in/abdelkader-benaissi) | [Email](mailto:abdelkader.benaissi.28@gmail.com)
 
-### 👨‍💻 About Me
+## Profile
 
-Security-focused Systems Engineer with ~2 years of experience managing enterprise infrastructure across Linux and Windows Server environments. Currently working at Algeria's **Government Authority for Electronic Certification (AGCE)**, where I support national PKI infrastructure, manage VMware virtualization, and operate security systems including FortiSIEM.
+Systems and Security Engineer with 2+ years of experience operating Linux and Windows infrastructure, national PKI services, Active Directory, virtualization, SIEM, backup platforms, and containerized workloads. I build evidence-driven cloud and Kubernetes labs and automate operational controls with PowerShell, Bash, Terraform, Ansible, and GitHub Actions.
 
-- 🔐 **Security:** CompTIA Security+, ISO/IEC 27001 Lead Auditor, Fortinet FCA
-- ☁️ **DevOps:** Docker, Kubernetes, GitHub Actions CI/CD, Terraform, Prometheus, Grafana
-- 🖥️ **Infra:** Active Directory, VMware vSphere/ESXi, Hyper-V, iDRAC, EMC Storage
-- 🛡️ **Network:** FortiGate, pfSense, Cloudflare WAF, Nginx Reverse Proxy
-- 📜 **PKI:** Certificate Authority operations, national digital trust framework
+Current role: **Systems Security Engineer at Algeria's Government Authority for Electronic Certification (AGCE).**
 
----
+## Core areas
 
-### 🚀 Featured Projects
+| Area | Technologies |
+|---|---|
+| Systems and identity | Linux, Windows Server, Active Directory Domain Services, DNS, Group Policy, PowerShell, Bash |
+| Security and PKI | CA operations, Active Directory Certificate Services (AD CS), FortiSIEM, Wazuh, FortiGate, pfSense |
+| Cloud and automation | GCP, AWS, Terraform, Ansible, GitHub Actions, REST APIs |
+| Containers and platforms | Docker, Docker Compose, Kubernetes, VMware vSphere/ESXi, Hyper-V |
+| Monitoring and resilience | Prometheus, Grafana, Telegraf, InfluxDB, Dell EMC NetWorker, Data Domain, Unity |
 
-| Project | Stack | Description |
+## Selected engineering work
+
+| Project | Focus | Evidence status |
 |---|---|---|
-| [DevOps Monitoring Platform](https://github.com/abdelkader-benaissi/DevOps_Project) | Python · Flask · Docker · Prometheus · Grafana · GitHub Actions · Terraform | Production-grade REST API with full CI/CD, observability and IaC |
-| Automated Security Assessment | Python · Bash · Nmap · Nikto · Gemini API | AI-powered vulnerability scanner with scheduled VPS scans and email reporting |
-| Enterprise Backup System | Bash · Rclone · SSH · Cron | Automated encrypted backup system with monitoring and failure alerting |
-| SIEM Deployment | FortiSIEM · vCenter · ESXi | Supervisor + Collector architecture with event correlation and security dashboards |
+| [Secure Kubernetes Platform](https://github.com/abdelkader-benaissi/secure-kubernetes-platform) | GitOps, admission control, default-deny networking, TLS, scaling, observability | Current CI deploys the platform to Kind and verifies certificate readiness, Argo CD health, and an admission rejection |
+| [Kubernetes SRE Lab](https://github.com/abdelkader-benaissi/k8s-sre-lab) | SLOs, burn-rate alerts, controlled failures, probes, HPA, PDB, runbooks | Current CI deploys the stack and passes an in-cluster readiness smoke test |
+| [Kubernetes HA Lab](https://github.com/abdelkader-benaissi/kubernetes-ha-lab) | kubeadm, stacked etcd, HAProxy/Keepalived, Terraform/libvirt, Ansible | Static CI validation passes; live VIP failover, quorum, and recovery evidence remain pending |
+| [SentinelAWS](https://github.com/abdelkader-benaissi/sentinelaws) | AWS defense-in-depth, GuardDuty/EventBridge containment, WAF, KMS, audit logging | Source validation and automated tests pass; account-specific deployment evidence remains pending |
+| [Automated SIEM Lab](https://github.com/abdelkader-benaissi/siem-lab) | GCP, Terraform, Ansible, Wazuh, multi-OS agents, attack simulation | Deployed lab evidence and alert screenshots are documented; CI validates Terraform and Ansible |
+| [Containerized Observability API](https://github.com/abdelkader-benaissi/infra-monitor) | Flask, Docker, Prometheus, Grafana, testing, CI/CD | CI lints, tests, and builds; successful commits deploy with a post-rollout health check |
 
----
+## Certifications
 
-### 🛠️ Tech Stack
-
-Security CompTIA Sec+ | ISO 27001 | FortiSIEM | Penetration Testing | Nmap | Burp Suite DevOps Docker | Kubernetes | GitHub Actions | Terraform | Prometheus | Grafana Systems Linux | Windows Server | Active Directory | VMware vSphere | Hyper-V Network FortiGate | pfSense | Nginx | Cloudflare WAF | DNS Scripting Python | Bash | PowerShell
-
----
-
-### 📜 Certifications
-
-- 🏅 **CompTIA Security+** — 2025
-- 🏅 **ISO/IEC 27001:2022 Lead Auditor** — 2025
-- 🏅 **Fortinet Certified Associate Cybersecurity** — 2025
-- 🏅 **Fortinet FortiGate 7.4 Operator** — 2025
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelkader-benaissi&color=0e75b6&style=flat" alt="profile views" />
-</p>
+- CompTIA Security+ - 2025
+- ISO/IEC 27001:2022 Lead Auditor - 2025
+- Fortinet Certified Associate Cybersecurity - 2025
+- Fortinet FortiGate 7.4 Operator - 2025
