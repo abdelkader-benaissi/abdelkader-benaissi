@@ -2,7 +2,7 @@
 
 **Systems & Security Engineer | DevOps Automation**
 
-[Portfolio](https://abdelkader-benaissi.github.io) | [LinkedIn](https://www.linkedin.com/in/abdelkader-benaissi) | [Email](mailto:abdelkader.benaissi.28@gmail.com)
+[Portfolio](https://abdelkader-benaissi.github.io) | [LinkedIn](https://www.linkedin.com/in/abdelkader-benaissi)
 
 ## Profile
 
